@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Kokuu | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 12 Jul 2021 00:04:47 +0800</lastBuildDate><atom:link href="https://zx96323.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jul 2021 16:41:47 +0800</lastBuildDate><atom:link href="https://zx96323.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>心得</title>
-      <link>https://zx96323.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+      <title>經歷</title>
+      <link>https://zx96323.github.io/categories/%E7%B6%93%E6%AD%B7/</link>
+      <pubDate>Mon, 12 Jul 2021 16:41:47 +0800</pubDate>
+      
+      <guid>https://zx96323.github.io/categories/%E7%B6%93%E6%AD%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>隨筆</title>
+      <link>https://zx96323.github.io/categories/%E9%9A%A8%E7%AD%86/</link>
       <pubDate>Mon, 12 Jul 2021 00:04:47 +0800</pubDate>
       
-      <guid>https://zx96323.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://zx96323.github.io/categories/%E9%9A%A8%E7%AD%86/</guid>
       <description></description>
     </item>
     

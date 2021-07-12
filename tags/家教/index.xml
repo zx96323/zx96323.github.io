@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kokuu | Personal blog</title>
-    <link>https://zx96323.github.io/</link>
-    <description>Recent content on Kokuu | Personal blog</description>
+    <title>家教 on Kokuu | Personal blog</title>
+    <link>https://zx96323.github.io/tags/%E5%AE%B6%E6%95%99/</link>
+    <description>Recent content in 家教 on Kokuu | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 12 Jul 2021 16:41:47 +0800</lastBuildDate><atom:link href="https://zx96323.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jul 2021 16:41:47 +0800</lastBuildDate><atom:link href="https://zx96323.github.io/tags/%E5%AE%B6%E6%95%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>家教經驗</title>
       <link>https://zx96323.github.io/blog/test2/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://zx96323.github.io/blog/test2/</guid>
       <description>個人學習表現  108學測英文社會滿級分，五科總71級分，英聽A。 高中校內英語演說比賽第一 高中校內生物學科競賽第三 高中學科表現：國英歷地公 生物化學物理地科 校內1%，數學及數甲2% 國中會考國文A++全對 多益910分  其他表現與經歷  南市學生美術比賽普通科版畫類第三名 字音字形國小到高中校內優勝 修過日文一(約N5到N4) 修過普通心理學並獲得A+  輔導項目  雙語小學 考私中加強學科 高職國英數 高中社會組範圍國英數歷地公 閱讀理解與寫作引導 國學常識補充  疫情期間線上教學，解封後可提供線上或實體教學</description>
-    </item>
-    
-    <item>
-      <title>初試啼聲</title>
-      <link>https://zx96323.github.io/blog/test/</link>
-      <pubDate>Mon, 12 Jul 2021 00:04:47 +0800</pubDate>
-      
-      <guid>https://zx96323.github.io/blog/test/</guid>
-      <description>暑假好無聊，所以開始學了架網站。</description>
     </item>
     
   </channel>
