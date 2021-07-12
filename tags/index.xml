@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kokuu | Personal blog</title>
+    <link>https://zx96323.github.io/tags/</link>
+    <description>Recent content in Tags on Kokuu | Personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 12 Jul 2021 00:04:47 +0800</lastBuildDate><atom:link href="https://zx96323.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文章</title>
+      <link>https://zx96323.github.io/tags/%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 12 Jul 2021 00:04:47 +0800</pubDate>
+      
+      <guid>https://zx96323.github.io/tags/%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://zx96323.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://zx96323.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://zx96323.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://zx96323.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://zx96323.github.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://zx96323.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://zx96323.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://zx96323.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://zx96323.github.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://zx96323.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
